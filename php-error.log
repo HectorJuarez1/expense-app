@@ -1,10 +1,8 @@
-[16-Sep-2022 04:28:51 Europe/Berlin] Inicio de aplicacion
-[16-Sep-2022 04:28:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expense-app\libs\app.php on line 9
-[16-Sep-2022 04:28:51 Europe/Berlin] Login::__construct ->inicio de login
-[16-Sep-2022 04:28:51 Europe/Berlin] View::handleError() existsKey =>1
-[16-Sep-2022 06:21:29 Europe/Berlin] Inicio de aplicacion
-[16-Sep-2022 06:21:29 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expense-app\libs\app.php on line 9
-[16-Sep-2022 06:21:30 Europe/Berlin] Login::__construct ->inicio de login
-[16-Sep-2022 06:22:04 Europe/Berlin] Inicio de aplicacion
-[16-Sep-2022 06:22:04 Europe/Berlin] Login::__construct ->inicio de login
-[16-Sep-2022 06:22:04 Europe/Berlin] Errores::__construct ->Inicio de errores
+[16-Sep-2022 17:52:46 America/Mexico_City] Inicio de aplicacion
+[16-Sep-2022 17:52:46 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expense-app\libs\app.php on line 9
+[16-Sep-2022 17:52:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "SessionController" not found in C:\xampp\htdocs\expense-app\controllers\login.php:3
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\libs\app.php(14): require_once()
+#1 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#2 {main}
+  thrown in C:\xampp\htdocs\expense-app\controllers\login.php on line 3
