@@ -1,0 +1,4 @@
+[16-Sep-2022 04:28:51 Europe/Berlin] Inicio de aplicacion
+[16-Sep-2022 04:28:51 Europe/Berlin] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\expense-app\libs\app.php on line 9
+[16-Sep-2022 04:28:51 Europe/Berlin] Login::__construct ->inicio de login
+[16-Sep-2022 04:28:51 Europe/Berlin] View::handleError() existsKey =>1
